@@ -1,0 +1,4 @@
+Name: Emily Clark
+studentID: EC456
+Enrolled subjects: Mathematics, Physics, History
+Student schedule: Mathematics - Monday_09:00 || Physics - Tuesday_11:00 || History - No time schedule

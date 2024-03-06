@@ -1,0 +1,3 @@
+C:/Users/gosti/C++/FMFI rozvrh - projekt/cmake-build-debug/CMakeFiles/FMFI_rozvrh___projekt.dir
+C:/Users/gosti/C++/FMFI rozvrh - projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gosti/C++/FMFI rozvrh - projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
