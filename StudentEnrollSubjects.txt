@@ -1,0 +1,2 @@
+Mathematics;MATH101;5
+Physics;PHYS101;4
